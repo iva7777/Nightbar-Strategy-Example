@@ -60,7 +60,7 @@ Postman is a powerful tool for testing and interacting with APIs. To use Postman
       "name": "Coke",
       "normalPrice": 2.5
   }
-```
+``
 
 #### 2. Create an Order
 

@@ -85,3 +85,6 @@ Here’s a summary of the main API endpoints available:
 - **POST /api/v1/drinks**: Add a new drink to the menu.
 - **POST /api/v1/orders**: Create a new order by specifying drink IDs.
 - **GET /api/v1/orders**: Retrieve a list of all orders.
+
+  [See the presentation](https://www.canva.com/design/DAGS_dPh3h8/xwfY3t7wLDEiY4FtCkwPHw/edit?utm_content=DAGS_dPh3h8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
